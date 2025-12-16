@@ -43,7 +43,7 @@ This project relies on only MATLAB scripts/functions. **All requirements listed 
 * `occlude_points.m`: Simulated visually occluded points from radar POV
 * `shininess.m`: Approximates specularity of surface points on car and outputs point cloud of reflective surface "blobs" to bounce radar beams off of
 * `variable_library_radar`: Contains radar characteristics for simulating FMCW mm wave radar
-* `functions` folder: contains radar signal and transmission simulation functions from the HawkEye GitHub repository (not implemented by our group)
+* functions folder: contains radar signal and transmission simulation functions from the HawkEye GitHub repository (not implemented by our group)
 
 
 
