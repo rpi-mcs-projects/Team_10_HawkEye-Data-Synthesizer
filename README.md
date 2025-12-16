@@ -37,6 +37,8 @@ This project relies on only MATLAB scripts/functions. **All requirements listed 
 ## Files in Repository (by folder)
 ### CAD Folder
 * `CAD_model_x.mat`: Dataset of 36 CAD files depicting different types of cars
+** For storage reasons, only two CAD files have been included in this repository.
+** The other 34 CAD files in the dataset can be downloaded from this repository: https://github.com/JaydenG1019/HawkEye-Data-Code
 
 ### Scripts Folder
 * `main.m`: Main training data synthesization script which calls helper functions and outputs figures containing training data
